@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hey!
+I'm Declan and I'm a first year university student, studying BSc Computer Science @ The University of Sheffield!
+
+
+
+
+
 
 <!--
 **declan-08/declan-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
